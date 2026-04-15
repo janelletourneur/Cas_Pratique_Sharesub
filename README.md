@@ -40,10 +40,10 @@ pas remplacer les colonnes d'origines pour garder un visu et la traçabilité.
 	 		       - Score moyen : 22.8/100
 	 		       - Score médian : 18.0/100
   Le dossier 'scoring' contient :
-  	- 'score.py' : un script autonome qui prend le SQLite brut en entrée 
-        et produit un CSV scoré en sortie, exécutable en une commande :
-     python scoring/score.py --input data/risk_monitor_dataset.sqlite--output data/scored.csv
-        - 'scored.csv' : fichier de sortie contenant les 830 subscribers scorés.
+  	- 'score.py' : un script autonome qui prend le SQLite brut en entrée
+  	   et produit un CSV scoré en sortie, exécutable en une commande :
+       python scoring/score.py --input data/risk_monitor_dataset.sqlite--output data/scored.csv
+    - 'scored.csv' : fichier de sortie contenant les 830 subscribers scorés.
 
 - Epreuve 3 : 
   interface compréhensive pour un opérateur non-tech (enfin je l'espère).
