@@ -10,13 +10,13 @@ et identifier les anomalies présentes;
 - choix des features de scoring et points qu'on leur attribue;
 - relecture des codes et vérification afin qu'il n'y ai pas d'erreurs, ce
 qui fût le cas;
-- relecture et correction des codes
+- correction des codes;
 - documentation dans chaque notebook expliquant mon raisonnement et mes
 choix.
 
 Là où l'IA m'a aidé : 
 - Génération des codes;
--Aide notamment pour l'épreuve 3 car je ne connaissais pas la bibliothèque
+- Aide notamment pour l'épreuve 3 car je ne connaissais pas la bibliothèque
 'Streamlit'
 
 J'ai utilisé google colab donc des explications sont apportées dans chaque notebook
@@ -63,7 +63,7 @@ donc le scoring n'est peut être pas "réaliste"..
 Ce cas pratique m'a permis de découvrir concrètement le travail 
 de data cleaning, de comprendre la logique du scoring de risque, 
 et de prendre en main des outils que je ne connaissais pas 
-(Streamlit et SQLite) et m'a motivé dans la réalisation de ce 
+(Streamlit, VScode et SQLite) et m'a motivé dans la réalisation de ce 
 type de missions.
 
 Je vous remercie encore d'avoir considéré ma candidature,
